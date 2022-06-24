@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/42616320/175443992-6a3b1310-7605-42d6-b017-ab621c2ef2ba.png)
+![github-header-image (5)](https://user-images.githubusercontent.com/42616320/175561812-53d306b0-9e21-4fd3-990d-f3c3c5aca71b.png)
 
 ```c++
 #include <iostream>
@@ -26,6 +26,7 @@ const techPortfolio = {
 ```
 
 - 📬 Get in touch:
+
     LinkedIn: www.linkedin.com/in/juanvb
 - 🔭 I’m currently working on making the world a better place.
 
