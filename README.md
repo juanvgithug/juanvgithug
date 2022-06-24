@@ -6,7 +6,7 @@
 
 int main() {
     std::cout << "⚡Hello World!";
-    std::cout << "⚡Welcome to my GitHub repo.";
+    std::cout << "Welcome to my GitHub repo 👾";
     return 0;
 }
 
@@ -14,63 +14,23 @@ int main() {
 
 This is **Juan ☠️** 
 
-const **techPortfolio** = {
-   "**technologies**":{
-      "frontEnd":[
-         "React",
-         "Redux",
-         "JavaScript",
-         "CSS",
-         "BootStrap",
-         "SASS",
-         "HTML",
-         "JQuery",
-         "PHP"
-      ],
-      "**backEnd**":[
-         "Node.Js",
-         "Express.Js",
-         "Java",
-         "C++",
-         "C#"
-      ],
-      "**dataBases**":[
-         "Oracle PL-SQL",
-         "MS T-SQL",
-         "MySQL",
-         "MariaDB",
-         "Sequelize",
-         "PostgreSQL",
-         "MongoDB",
-         "FireBase"
-      ],
-      "**misc**":[
-         "ANSI C",
-         "C++",
-         "VS.net",
-         "Windows API",
-         "HP-UX",
-         "Solaris",
-         "IBM-AIX",
-         "Shell Scripting",
-         "macOS",
-         "iOS",
-         "Debian",
-         "Apache",
-         "IIS",
-         "IBM HTTP Server",
-         "JBoss",
-         "WebSphere",
-         "NGINX"
-      ]
-   }
-}
+```javascript
+const techPortfolio = {
+   "technologies":{
+      "frontEnd": ["React", "Redux", "JavaScript", "CSS", "BootStrap", "SASS", "HTML", "JQuery", "PHP"],
+      "backEnd":  ["Node.Js", "Express.Js", "Java", "C++", "C#"],
+      "dataBases":["Oracle PL-SQL", "MS T-SQL", "MySQL", "MariaDB", "Sequelize", "PostgreSQL", "MongoDB", "FireBase"],
+      "misc":     ["ANSI C", "C++", "VS.net", "Windows API", "HP-UX", "Solaris", "IBM-AIX", "Shell Scripting", "macOS", "iOS", "Debian", "Apache","IIS", "IBM HTTP Server", "JBoss", "WebSphere", "NGINX"]
+      }
+};
+```
 
-
-- 📬 Get in touch
-LinkedIn: linkedin.com/in/juanvb
+- 📬 Get in touch:
+    LinkedIn: www.linkedin.com/in/juanvb
 - 🔭 I’m currently working on making the world a better place.
-- 🌱 I’m currently learning with the great ppl from coderhouse.com
+
+- 🌱 I’m currently learning with the great ppl from www.coderhouse.com
+
 - 👯 I’m looking to collaborate on anything that calls to my attention.
 
 <!--
