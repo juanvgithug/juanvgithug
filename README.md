@@ -1,5 +1,8 @@
 ⚡Hello World. 
 
+![image](https://user-images.githubusercontent.com/42616320/175443992-6a3b1310-7605-42d6-b017-ab621c2ef2ba.png)
+
+
 This is Juan ☠️ !
 
 const techPortfolio = {
