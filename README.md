@@ -13,7 +13,7 @@ int main() {
 ```
 
 This is **Juan ☠️** 
-```javascript
+
 const **techPortfolio** = {
    "**technologies**":{
       "frontEnd":[
@@ -65,7 +65,7 @@ const **techPortfolio** = {
       ]
    }
 }
-```
+
 
 - 📬 Get in touch
 LinkedIn: linkedin.com/in/juanvb
