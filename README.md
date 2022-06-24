@@ -54,6 +54,9 @@ const techPortfolio = {
    }
 }
 
+📬 Get in touch
+LinkedIn: linkedin.com/in/juanvb
+
 <!--
 **juanvgithug/juanvgithug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
