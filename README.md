@@ -244,6 +244,16 @@ const techPortfolio = {
             alt="WinAPI" width="40" height="40" />&nbsp;
         <a href></a>
 </div>
+
+</br>    
+    
+:fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juanvgithug&theme=midnight-purple)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvgithug&layout=compact&theme=vision-friendly-dark)](https://github.com/juanvgithug/github-readme-stats)
+
+
     
 <!--
 **juanvgithug/juanvgithug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
