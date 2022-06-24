@@ -1,6 +1,6 @@
+![github-header-image (6)](https://user-images.githubusercontent.com/42616320/175562995-5145bfb1-bace-4913-a256-faee567ef983.png)
 
-![github-header-image (5)](https://user-images.githubusercontent.com/42616320/175561812-53d306b0-9e21-4fd3-990d-f3c3c5aca71b.png)
-
+<!--
 ```c++
 #include <iostream>
 
@@ -13,14 +13,16 @@ int main() {
 ```
 
 This is **Juan ☠️** 
+-->
+
 
 ```javascript
 const techPortfolio = {
    "technologies":{
-      "frontEnd": ["React", "Redux", "JavaScript", "CSS", "BootStrap", "SASS", "HTML", "JQuery", "PHP"],
-      "backEnd":  ["Node.Js", "Express.Js", "Java", "C++", "C#"],
-      "dataBases":["Oracle PL-SQL", "MS T-SQL", "MySQL", "MariaDB", "Sequelize", "PostgreSQL", "MongoDB", "FireBase"],
-      "misc":     ["ANSI C", "C++", "VS.net", "Windows API", "HP-UX", "Solaris", "IBM-AIX", "Shell Scripting", "macOS", "iOS", "Debian", "Apache","IIS", "IBM HTTP Server", "JBoss", "WebSphere", "NGINX"]
+      "frontEnd" : ["React", "Redux", "JavaScript", "CSS", "BootStrap", "SASS", "HTML", "JQuery", "PHP"],
+      "backEnd"  : ["Node.JS", "Express.JS", "Java", "C++", "C#"],
+      "dataBases": ["Oracle PL-SQL", "MS T-SQL", "MySQL", "MariaDB", "Sequelize", "PostgreSQL", "MongoDB", "FireBase"],
+      "miscStuff": ["ANSI C", "C++", "VS.net", "Windows API", "HP-UX", "Solaris", "IBM-AIX", "Shell Scripting", "macOS", "iOS", "Debian", "Apache","IIS", "IBM HTTP Server", "JBoss", "WebSphere", "NGINX"]
       }
 };
 ```
