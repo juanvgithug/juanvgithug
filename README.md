@@ -1,16 +1,11 @@
 ![github-header-image (17)](https://user-images.githubusercontent.com/42616320/175719507-dffadfd7-ff3d-4cae-8570-d8298881c8fc.png)
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/juanvb/">
-    <img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/juanvgithug/">
-    <img src="https://badges.pufler.dev/visits/juanvgithug/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Visits Badge"/>
-  </a>
-  <a href="https://github.com/juanvgithug/">
-    <img src="https://badges.pufler.dev/years/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Years Badge"/>
-  </a>
-</div>
+```php
+
+root@multiverse# whoami
+Systems Architect / Full Stack Engineer / Full Time Human Being
+
+```
 
 </br>
 
@@ -39,6 +34,20 @@ const techPortfolio = {
       }
 };
 ```
+</br>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/juanvb/">
+    <img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/juanvgithug/">
+    <img src="https://badges.pufler.dev/visits/juanvgithug/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Visits Badge"/>
+  </a>
+  <a href="https://github.com/juanvgithug/">
+    <img src="https://badges.pufler.dev/years/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Years Badge"/>
+  </a>
+</div>
+
 </br>
 
 ## :man_technologist: Quick Facts:
