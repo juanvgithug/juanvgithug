@@ -1,4 +1,18 @@
-![github-header-image (6)](https://user-images.githubusercontent.com/42616320/175562995-5145bfb1-bace-4913-a256-faee567ef983.png)
+![github-header-image (17)](https://user-images.githubusercontent.com/42616320/175719507-dffadfd7-ff3d-4cae-8570-d8298881c8fc.png)
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/juanvb/">
+    <img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/juanvgithug/">
+    <img src="https://badges.pufler.dev/visits/juanvgithug/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Visits Badge"/>
+  </a>
+  <a href="https://github.com/juanvgithug/">
+    <img src="https://badges.pufler.dev/years/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Years Badge"/>
+  </a>
+</div>
+
+</br>
 
 <!--
 ```c++
@@ -9,7 +23,6 @@ int main() {
     std::cout << "Welcome to my GitHub repo 👾";
     return 0;
 }
-
 ```
 
 This is **Juan ☠️** 
@@ -26,19 +39,17 @@ const techPortfolio = {
       }
 };
 ```
+</br>
 
-:man_technologist: Quick Facts:
+## :man_technologist: Quick Facts:
 - 🔭 I’m currently working on making the world a better place.  
 - 🌱 I’m currently learning stuff with the great ppl from www.harvard.edu and www.coderhouse.com
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/juanvb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+</br>
 
-:hammer_and_wrench: Langz / Toolz :
-<div style='background-color: rgba(89, 89, 89, 0.39);'>
+## :hammer_and_wrench: Langz / Toolz :
+
+<div style="background-color: grey;">
     <a href ="https://mongodb.com" target ="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
             title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
