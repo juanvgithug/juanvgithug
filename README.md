@@ -266,7 +266,15 @@ const techPortfolio = {
 </div>
     
 </br>    
-       
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/juanbgithug">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvgithug&layout=compact&theme=vision-friendly-dark&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <!--
 **juanvgithug/juanvgithug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
