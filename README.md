@@ -37,13 +37,13 @@ const techPortfolio = {
 </br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/juanvb/">
+  <a href="https://www.linkedin.com/in/juanvb/" target ="_blank">
     <img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/juanvgithug/">
+  <a href="https://github.com/juanvgithug/" target ="_blank">
     <img src="https://badges.pufler.dev/visits/juanvgithug/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Visits Badge"/>
   </a>
-  <a href="https://github.com/juanvgithug/">
+  <a href="https://github.com/juanvgithug/" target ="_blank">
     <img src="https://badges.pufler.dev/years/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Years Badge"/>
   </a>
 </div>
