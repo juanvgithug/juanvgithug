@@ -40,12 +40,14 @@ const techPortfolio = {
   <a href="https://www.linkedin.com/in/juanvb/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
+<!--  
   <a href="https://github.com/juanvgithug/" target="_blank" rel="noopener noreferrer">
     <img src="https://badges.pufler.dev/visits/juanvgithug/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Visits Badge"/>
   </a>
   <a href="https://github.com/juanvgithug/" target="_blank" rel="noopener noreferrer">
     <img src="https://badges.pufler.dev/years/juanvgithug?style=for-the-badge&logo=github" alt="GitHub Years Badge"/>
   </a>
+!-->
 </div>
 
 </br>
